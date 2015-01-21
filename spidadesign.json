@@ -48,7 +48,7 @@
         }
     ],
     "post-processors": [
-        "spidadesign"
+        "vagrant"
     ],
     "provisioners": [
         {
