@@ -8,7 +8,7 @@ easy_install pip
 pip install virtualenv virtualenvwrapper
 
 # Configure Virtualenvwrapper.
-cat <<EOF >> /home/vagrant/.bashrc
+cat <<EOF >> /home/spidadesign/.bashrc
 # Virtualenvwrapper configuration.
 export WORKON_HOME=\$HOME/.virtualenvs
 export PROJECT_HOME=\$HOME/Devel

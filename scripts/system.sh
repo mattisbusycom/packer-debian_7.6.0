@@ -2,7 +2,7 @@
 apt-get install -y vim
 
 # Customize Bash settings.
-cat <<EOF > /home/vagrant/.bashrc
+cat <<EOF > /home/spidadesign/.bashrc
 # Colorize the prompt.
 yellow=\$(tput setaf 3)
 green=\$(tput setaf 2)
